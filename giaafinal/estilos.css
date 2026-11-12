@@ -1,0 +1,21 @@
+.perfumes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px
+}
+
+.cremas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px
+}
+
+h2 {
+    display: flex;
+    justify-content: center
+}
+
+a {
+    display: flex;
+    flex-direction: row;
+}
